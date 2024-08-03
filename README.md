@@ -13,4 +13,4 @@ In this project, we aim to gain insights into the general sentiment of comments 
 3. NLTK (Natural Language Toolkit): For text preprocessing and sentiment analysis.
 4. TextBlob: For easy implementation of sentiment analysis.
 5. pandas: For data manipulation and analysis.
-6. matplotlib & seaborn: For data visualization.
+6. matplotlib: For data visualization.
