@@ -13,4 +13,4 @@ This project performs a comprehensive sentiment analysis of YouTube comments on 
 3. NLTK (Natural Language Toolkit): For text preprocessing and sentiment analysis.
 4. TextBlob: For easy implementation of sentiment analysis.
 5. pandas: For data manipulation and analysis.
-6. matplotlib: For data visualization.
+6. matplotlib and seaborn: For data visualization.
