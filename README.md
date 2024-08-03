@@ -1,4 +1,4 @@
-**Youtube Sentiment Analysis on GPT-4o** <br/>
+**Youtube Sentiment Analysis on "Alien: Romulus" Movie** <br/>
 In this project, we aim to gain insights into the general sentiment of comments on YouTube videos. By analyzing the sentiments, we can understand public opinion, gauge audience engagement, and identify trends. This project is particularly useful for content creators, marketers, and researchers interested in understanding audience reactions and feedback.<br/>
 
 **Features:** <br/>
