@@ -1,5 +1,5 @@
 **Youtube Sentiment Analysis on "Alien: Romulus" Movie** <br/>
-In this project, we aim to gain insights into the general sentiment of comments on YouTube videos. By analyzing the sentiments, we can understand public opinion, gauge audience engagement, and identify trends. This project is particularly useful for content creators, marketers, and researchers interested in understanding audience reactions and feedback.<br/>
+This project performs a comprehensive sentiment analysis of YouTube comments on the recently released horror sci-fi movie "Alien: Romulus." Utilizing advanced machine learning models, including Decision Trees, Random Forests, RNNs, and Gradient Boosting, the system extracts, preprocesses, and analyzes comments to determine their sentiment. The results are visualized to provide insights into audience reactions, offering a valuable tool for understanding public sentiment and trends.<br/>
 
 **Features:** <br/>
 1. Comment Scraping: Scraping of comments from YouTube videos using the pytube library.
